@@ -3,7 +3,7 @@
 **Backend Software Engineer & Applied AI / MLOps Specialist**  
 Master's Student in Computer Engineering @ UMP Oujda
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AyoubElKharraf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-el-kharraf-a2830a394/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyoubElKharraf)
 
 ---
