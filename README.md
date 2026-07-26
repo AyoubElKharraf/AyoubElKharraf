@@ -11,7 +11,7 @@ Master's Student in Computer Engineering @ UMP Oujda
 ### 🚀 About Me
 - 🔭 **Focus:** Building robust, scalable microservices architectures & production-ready MLOps pipelines.
 - 🛠️ **Tech Stack:** Java 21, Spring Boot 3, Python, FastAPI, Node.js, Next.js, PostgreSQL, Kafka, Redis, Docker, GitHub Actions.
-- 🎯 **Current Target:** Final Year Internship (PFE) starting early 2027 in Backend, Cloud, or AI/MLOps Engineering.
+- 🎯 **Current Target:** Final Year Internship (PFE) starting early 2027 in Backend or AI/MLOps Engineering.
 
 ---
 
