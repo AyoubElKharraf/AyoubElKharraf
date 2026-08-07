@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=200&section=header&text=Ayoub%20El%20Kharraf&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Software%20Engineer%20%7C%20Applied%20AI%20%2F%20MLOps%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Master's+Student+in+Computer+Engineering+%40+UMP+Oujda;Building+Scalable+Microservices+%26+MLOps+Pipelines;Turning+Ideas+Into+Production-Ready+Systems;Open+to+PFE+Opportunities+%E2%80%94+Early+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=M2i+Student+%40+UMP+Oujda+(2025-2027);Building+Scalable+Microservices+%26+MLOps+Pipelines;Strong+Focus+on+APIs+%26+Security;Open+to+PFE+Opportunities+%E2%80%94+Early+2027" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-el-kharraf-a2830a394/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyoubElKharraf)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay.elkharraf@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 <img src="https://komarev.com/ghpvc/?username=AyoubElKharraf&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" alt="profile views"/>
 
@@ -25,14 +24,90 @@
 name: "Ayoub El Kharraf"
 role: "Backend Software Engineer & Applied AI / MLOps Specialist"
 location: "Oujda, Morocco 🇲🇦"
-education: "M2 - Ingénierie Informatique, Université Mohammed Premier (UMP)"
+education: "M2i - Ingénierie Informatique, Université Mohammed Premier (2025-2027)"
 focus:
   - "Designing robust, scalable microservices architectures"
   - "Building production-ready MLOps pipelines end-to-end"
-  - "Bridging academic research with real-world, deployed products"
+  - "Strong emphasis on API design & Security (RBAC, JWT, OAuth2, gRPC)"
 current_target: "Final Year Internship (PFE) — Backend / AI-MLOps Engineering, early 2027"
 fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 ```
+
+<br/>
+
+## 🎓 Academic Journey — Master M2i (2025 – 2027)
+
+<details open>
+<summary><b>📘 Year 1 — Semester 1</b> (25/11/2025 → 12/03/2026) — Result: <b>16.69 / 20</b> ✅</summary>
+<br/>
+
+| Module | Grade |
+|---|---|
+| Machine Learning | 18.00 / 20 |
+| Jakarta EE | 15.00 / 20 |
+| Outils Mathématiques | 17.00 / 20 |
+| Cryptographie | 17.75 / 20 |
+| Innovation | 16.50 / 20 |
+| Anglais | 16.00 / 20 |
+| Networking | 16.58 / 20 |
+
+</details>
+
+<details open>
+<summary><b>📗 Year 1 — Semester 2</b> (25/03/2026 → 11/07/2026) — Result: <b>15.78 / 20</b> ✅</summary>
+<br/>
+
+| Module | Grade |
+|---|---|
+| Deep Learning | 16.00 / 20 |
+| Cloud Computing | 15.00 / 20 |
+| Data Mining | 15.00 / 20 |
+| Oracle DBA & NoSQL | 17.00 / 20 |
+| DWH & Big Data | 15.00 / 20 |
+| MRS | 20.00 / 20 |
+| CETC | 12.50 / 20 |
+
+</details>
+
+<details open>
+<summary><b>☀️ Summer 2026 — Self-Leveling Program</b> (01/08/2026 → 31/10/2026) — <i>In Progress</i></summary>
+<br/>
+
+🧑‍💻 *Ayoub El Kharraf — a Backend & AI/MLOps Software Engineer with strong APIs and Security skills.*
+
+**Programming Languages & Frameworks**
+
+| Track | Status |
+|---|:---:|
+| C++ / ONNX Runtime | 🔄 |
+| Java — Spring Boot / Jakarta EE | 🔄 |
+| SGBD — MySQL, Redis | 🔄 |
+| TypeScript / Next.js / JS (ES6) | 🔄 |
+| Python / FastAPI | 🔄 |
+| SGBD — PostgreSQL, Redis | 🔄 |
+| Apache Kafka, MLOps | 🔄 |
+| ClickHouse, WebRTC, MinIO | 🔄 |
+| Testing — JUnit5, Mockito, PyTest | 🔄 |
+| Monitoring — Prometheus, Grafana | 🔄 |
+
+**Skills**
+
+- 🛠️ **Tools:** Git/GitHub, Postman, Linux
+- 🧩 **Patterns:** Agile, Scrum, MVP, MCP
+- 🔌 **APIs:** RBAC, gRPC, WebSocket
+- 🔐 **Security:** REST/JSON, JWT, OAuth2
+- ☁️ **Cloud:** Docker, Kubernetes, Jenkins, Terraform *(CI/CD - IaC)*
+
+**Certifications in Progress**
+
+| Certificate | Status |
+|---|:---:|
+| GeeksforGeeks — MERN Stack | 🔄 |
+| Great Learning — Data Sciences | 🔄 |
+| TOEFL — English | 🎯 Target: Nov 2026 |
+| AWS Cloud Practitioner | 🎯 Target: Oct 2026 |
+
+</details>
 
 <br/>
 
@@ -44,29 +119,41 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 
 <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jakarta_EE-D91404?style=for-the-badge&logo=jakartaee&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 **Frontend & Data**
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
 
 **AI / MLOps**
 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLOv8/v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
 <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/EfficientNet-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-**DevOps & Tools**
+**DevOps, Cloud & Monitoring**
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
@@ -74,14 +161,42 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 
 ## 🌟 Featured Repositories
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=NeuroFlow&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=VisionOps-AI&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=ViewBeforeBuy&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=cloud-planification-microservices&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=PlantDiseaseDetection&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=BibliothecaFSO&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
 | Project | Description | Stack |
 |---|---|---|
-| 🧠 **[NeuroFlow](./NeuroFlow)** | Event-Driven MLOps & Observability Platform | `Java 21` `Spring Boot 3` `Kafka` `ClickHouse` `FastAPI` |
-| 🏘️ **[ViewBeforeBuy](./ViewBeforeBuy)** | Real Estate & Fintech Platform with AI Copilot — 🥈 **2nd Place, DiNext'26 Hackathon** | `PERN` `Redis` `Stripe` `CI/CD` |
-| 👁️ **[VisionOps-AI](./VisionOps-AI)** | Real-Time Computer Vision & MLOps Platform | `YOLOv8/v11` `PyTorch` `ONNX Runtime` |
+| 🧠 **[NeuroFlow](https://github.com/AyoubElKharraf/NeuroFlow)** | Event-driven MLOps & Observability platform: containerized architecture, CI/CD pipeline, high-throughput log ingestion into ClickHouse & data drift detection | `Java 21` `Spring Boot 3` `Kafka` `ClickHouse` `FastAPI` `Docker` |
+| 👁️ **[VisionOps-AI](https://github.com/AyoubElKharraf/VisionOps-AI)** | Real-time MLOps & Computer Vision platform: high-concurrency video stream analysis (RTSP/WebRTC via MediaMTX), geometric anomaly detection, async alerts, Next.js dashboard | `YOLOv8/v11` `PyTorch` `ONNX` `Redis/Celery/MinIO` `Next.js` |
+| 🏘️ **[ViewBeforeBuy](https://github.com/AyoubElKharraf/ViewBeforeBuy)** | Moroccan Fintech/PropTech platform with AI Copilot, automated CI/CD, Redis caching, Stripe integration, Vercel AI SDK, Socket.io & 3D visualization — 🥈 **2nd Place, DiNext'26** | `PERN` `Redis` `Stripe` `Vercel AI SDK` `Socket.io` |
+| ☁️ **[cloud-planification-microservices](https://github.com/AyoubElKharraf/cloud-planification-microservices)** | Academic scheduling cloud platform built on 3 Jakarta EE 10 microservices (course, room, timetable management) — REST architecture, WildFly, MySQL, Docker Compose, Vagrant, Kubernetes/K3s | `Jakarta EE 10` `WildFly` `MySQL` `Kubernetes` `Docker` |
+| 🌿 **[PlantDiseaseDetection](https://github.com/AyoubElKharraf/PlantDiseaseDetection)** | Plant disease detection from leaf images (PlantVillage dataset) using EfficientNetB0 with 2-phase transfer learning, CLI train/predict, Streamlit interface & evaluation curves | `Python` `EfficientNet` `Streamlit` |
+| 📚 **[BibliothecaFSO](https://github.com/AyoubElKharraf/BibliothecaFSO)** | University Library Management System — polyglot architecture with Oracle & MongoDB/NoSQL databases | `TypeScript` `MongoDB` `Oracle` |
 
 <br/>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AyoubElKharraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=AyoubElKharraf&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubElKharraf&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+
+</div>
+
+<br/>
 
 ## 🏆 Achievements
 
@@ -93,6 +208,7 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 
 - 🥈 **2nd Place — DiNext'26 Hackathon** (UMP Oujda, Digital / AI / Fintech track) with **ImmoFin AI**, later evolved into **ViewBeforeBuy**
 - 🏗️ Solo founder & builder of **MarocPulse**, a Moroccan AI health & lifestyle super-app (Cloudflare Workers, <50ms global latency, full FR/EN/AR/Darija support)
+- 🎓 Top-tier academic results across both S1 & S2 of the M2i program (16.69/20 & 15.78/20)
 
 <br/>
 
