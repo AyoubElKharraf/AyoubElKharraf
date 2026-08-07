@@ -64,7 +64,6 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 
 **AI / MLOps**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLOv8/v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
 <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
 <img src="https://img.shields.io/badge/EfficientNet-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -78,26 +77,12 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 
 </div>
 
 <br/>
 
 ## 🌟 Featured Repositories
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=NeuroFlow&theme=tokyonight&hide_border=true&border_radius=10" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=VisionOps-AI&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=ViewBeforeBuy&theme=tokyonight&hide_border=true&border_radius=10" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=cloud-planification-microservices&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=PlantDiseaseDetection&theme=tokyonight&hide_border=true&border_radius=10" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=BibliothecaFSO&theme=tokyonight&hide_border=true&border_radius=10" />
-
-</div>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -107,19 +92,6 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 | ☁️ **[cloud-planification-microservices](https://github.com/AyoubElKharraf/cloud-planification-microservices)** | Academic scheduling cloud platform built on 3 Jakarta EE 10 microservices (course, room, timetable management) — REST architecture, WildFly, MySQL, Docker Compose, Vagrant, Kubernetes/K3s | `Jakarta EE 10` `WildFly` `MySQL` `Kubernetes` `Docker` |
 | 🌿 **[PlantDiseaseDetection](https://github.com/AyoubElKharraf/PlantDiseaseDetection)** | Plant disease detection from leaf images (PlantVillage dataset) using EfficientNetB0 with 2-phase transfer learning, CLI train/predict, Streamlit interface & evaluation curves | `Python` `EfficientNet` `Streamlit` |
 | 📚 **[BibliothecaFSO](https://github.com/AyoubElKharraf/BibliothecaFSO)** | University Library Management System — polyglot architecture with Oracle & MongoDB/NoSQL databases | `TypeScript` `MongoDB` `Oracle` |
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyoubElKharraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=AyoubElKharraf&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubElKharraf&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
 
 <br/>
 
