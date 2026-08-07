@@ -75,21 +75,6 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 
 ## 🌟 Featured Repositories
 
-<div align="center">
-
-<a href="./NeuroFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=NeuroFlow&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="./ViewBeforeBuy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=ViewBeforeBuy&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<br/>
-<a href="./VisionOps-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyoubElKharraf&repo=VisionOps-AI&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
 | Project | Description | Stack |
 |---|---|---|
 | 🧠 **[NeuroFlow](./NeuroFlow)** | Event-Driven MLOps & Observability Platform | `Java 21` `Spring Boot 3` `Kafka` `ClickHouse` `FastAPI` |
@@ -98,18 +83,6 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyoubElKharraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=AyoubElKharraf&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubElKharraf&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
-
-<br/>
 
 ## 🏆 Achievements
 
