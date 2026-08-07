@@ -12,8 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyoubElKharraf)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay.elkharraf@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=AyoubElKharraf&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" alt="profile views"/>
-
 </div>
 
 <br/>
