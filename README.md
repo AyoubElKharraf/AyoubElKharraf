@@ -89,23 +89,8 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 | 🧠 **[NeuroFlow](https://github.com/AyoubElKharraf/NeuroFlow)** | Event-driven MLOps & Observability platform: containerized architecture, CI/CD pipeline, high-throughput log ingestion into ClickHouse & data drift detection | `Java 21` `Spring Boot 3` `Kafka` `ClickHouse` `FastAPI` `Docker` |
 | 👁️ **[VisionOps-AI](https://github.com/AyoubElKharraf/VisionOps-AI)** | Real-time MLOps & Computer Vision platform: high-concurrency video stream analysis (RTSP/WebRTC via MediaMTX), geometric anomaly detection, async alerts, Next.js dashboard | `YOLOv8/v11` `PyTorch` `ONNX` `Redis/Celery/MinIO` `Next.js` |
 | 🏘️ **[ViewBeforeBuy](https://github.com/AyoubElKharraf/ViewBeforeBuy)** | Moroccan Fintech/PropTech platform with AI Copilot, automated CI/CD, Redis caching, Stripe integration, Vercel AI SDK, Socket.io & 3D visualization — 🥈 **2nd Place, DiNext'26** | `PERN` `Redis` `Stripe` `Vercel AI SDK` `Socket.io` |
-| ☁️ **[cloud-planification-microservices](https://github.com/AyoubElKharraf/cloud-planification-microservices)** | Academic scheduling cloud platform built on 3 Jakarta EE 10 microservices (course, room, timetable management) — REST architecture, WildFly, MySQL, Docker Compose, Vagrant, Kubernetes/K3s | `Jakarta EE 10` `WildFly` `MySQL` `Kubernetes` `Docker` |
-| 🌿 **[PlantDiseaseDetection](https://github.com/AyoubElKharraf/PlantDiseaseDetection)** | Plant disease detection from leaf images (PlantVillage dataset) using EfficientNetB0 with 2-phase transfer learning, CLI train/predict, Streamlit interface & evaluation curves | `Python` `EfficientNet` `Streamlit` |
-| 📚 **[BibliothecaFSO](https://github.com/AyoubElKharraf/BibliothecaFSO)** | University Library Management System — polyglot architecture with Oracle & MongoDB/NoSQL databases | `TypeScript` `MongoDB` `Oracle` |
-
 <br/>
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AyoubElKharraf&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
-- 🥈 **2nd Place — DiNext'26 Hackathon** (UMP Oujda, Digital / AI / Fintech track) with **ImmoFin AI**, later evolved into **ViewBeforeBuy**
-- 🏗️ Solo founder & builder of **MarocPulse**, a Moroccan AI health & lifestyle super-app (Cloudflare Workers, <50ms global latency, full FR/EN/AR/Darija support)
-- 🎓 Top-tier academic results across both S1 & S2 of the M2i program (16.69/20 & 15.78/20)
 
 <br/>
 
