@@ -20,14 +20,13 @@
 
 ```yaml
 name: "Ayoub El Kharraf"
-role: "Backend Software Engineer & Applied AI / MLOps Specialist"
+role: "Backend Software Engineer & Enthused AI "
 location: "Oujda, Morocco 🇲🇦"
 education: "M2i - Ingénierie Informatique, Université Mohammed Premier (2025-2027)"
 focus:
   - "Designing robust, scalable microservices architectures"
-  - "Building production-ready MLOps pipelines end-to-end"
   - "Strong emphasis on API design & Security (RBAC, JWT, OAuth2, gRPC)"
-current_target: "Final Year Internship (PFE) — Backend / AI-MLOps Engineering, early 2027"
+current_target: "Final Year Internship (PFE) — Backend / AI Engineering, early 2027"
 fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 ```
 
@@ -60,7 +59,7 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <!-- img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/-->
 
-**AI / MLOps**
+**AI**
 
 <img src="https://img.shields.io/badge/YOLOv8/v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
 <img src="https://img.shields.io/badge/EfficientNet-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
