@@ -43,13 +43,10 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jakarta_EE-D91404?style=for-the-badge&logo=jakartaee&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 **Frontend & Data**
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular.js-31B8B6?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -58,12 +55,6 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<!-- img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/-->
-
-**AI**
-
-<img src="https://img.shields.io/badge/YOLOv8/v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
-<img src="https://img.shields.io/badge/EfficientNet-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 **DevOps, Cloud & Monitoring**
 
@@ -82,8 +73,8 @@ fun_fact: "🥈 2nd Place @ DiNext'26 Hackathon (Digital / AI / Fintech)"
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧠 **[NeuroFlow](https://github.com/AyoubElKharraf/NeuroFlow)** | Event-driven MLOps & Observability platform: containerized architecture, CI/CD pipeline, high-throughput log ingestion into ClickHouse & data drift detection | `Java 21` `Spring Boot 3` `Kafka` `ClickHouse` `FastAPI` `Docker` |
-| 🏘️ **[ViewBeforeBuy](https://github.com/AyoubElKharraf/ViewBeforeBuy)** | Moroccan Fintech/PropTech platform with AI Copilot, automated CI/CD, Redis caching, Stripe integration, Vercel AI SDK, Socket.io & 3D visualization — 🥈 **2nd Place, DiNext'26** | `PERN` `Redis` `Stripe` `Vercel AI SDK` `Socket.io` |
+| 🧠 **[NeuroFlow](https://github.com/AyoubElKharraf/NeuroFlow)** | Event-driven MLOps & Observability platform: containerized architecture, CI/CD pipeline, high-throughput log ingestion into ClickHouse & data drift detection | `Java 21` `Spring Boot 3` `Kafka` `Docker` |
+| 🏘️ **[ViewBeforeBuy](https://github.com/AyoubElKharraf/ViewBeforeBuy)** | Moroccan Fintech/PropTech platform with AI Copilot, automated CI/CD, Redis caching, Socket.io & 3D visualization — 🥈 **2nd Place, DiNext'26** | `PERN` `Redis` `Socket.io` |
 <br/>
 
 
